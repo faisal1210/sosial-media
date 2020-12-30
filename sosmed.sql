@@ -41,7 +41,7 @@ CREATE TABLE `users` (
 
 INSERT INTO `users` (`id`, `username`, `email`, `password`, `name`, `photo`) VALUES
 (1, 'rahman', 'rahman@cilsy.id', '$2y$10$HIEq2w.8Et9RsJmY4TMKye4aVCxOd9xJTOtG4vyOEmo.GIBxaPQHK', 'Rahman Rizal', 'default.svg'),
-(3, 'rizal', 'rizal@cilsy.id', '$2y$10$uXa.Hz9rr8gkv4ztaqf6FO84iW64gXHbeyEOy1tIQ5wmqMjTk0yQa', 'Rizal Rahman', 'default.svg');
+(3, 'rizal', 'rizal@cilsy.id', '$2y$10$uXa.Hz9rr8gkv4ztaqf6FO84iW64gXHbeyEOy1tIQ5wmqMjTk0yQa', 'Rizal Rahmann', 'default.svg');
 
 --
 -- Indexes for dumped tables
