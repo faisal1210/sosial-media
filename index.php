@@ -4,8 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Pesbuk</title>
-
+    <title>PT. Samehada - Social Media</title>
      <link rel="stylesheet" href="css/bootstrap.min.css" />
 </head>
 <body class="bg-light">
@@ -13,8 +12,9 @@
         <div class="jumbotron jumbotron-fluid">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-8">
-                        <h1>Selamat datang di Pesbuk</h1>
+                    <div class="col-md-8">                        
+                        <h1>Selamat datang di PT. Samehada</h1>
+                        <h2>Website Sosial Media</h2>
                         <p>Bergabunglah bersama jutaan orang lainnya...</p>
                     </div>
                     <div class="col-md-4">
